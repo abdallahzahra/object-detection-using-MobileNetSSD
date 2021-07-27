@@ -2,4 +2,4 @@
 numpy==1.19.5
 opencv-contrib-python==4.1.2.30
 opencv-python==4.1.2.30
-imutils
+imutils==0.5.3
